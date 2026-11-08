@@ -66,5 +66,5 @@ This is the question that guides every project I build. If the answer is **yes**
 
 ### 📫 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/bathala-praveenkumar)
-- 📧 bpraveenkumar9392@gmail.com
+- 📧 bpraveenkumark1@gmail.com
 - 💻 [GitHub Profile](https://github.com/praveen9392)
